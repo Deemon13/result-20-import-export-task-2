@@ -18,7 +18,7 @@
     "webpack-dev-server": "^4.7.4"
   },
   "keywords": [],
-  "author": "",
+  "author": "Deemon13",
   "license": "ISC",
-  "description": ""
+  "description": "Small app for imitation of cookies acception message"
 }
